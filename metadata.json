@@ -1,0 +1,5 @@
+{
+  "name": "Task Force: Echo",
+  "description": "A high-octane, top-down tactical shooter inspired by Call of Duty. Features dynamic lighting, particle physics, and AI-generated mission briefings using Gemini. Optimized for performance on all systems.",
+  "requestFramePermissions": []
+}
